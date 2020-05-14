@@ -1,5 +1,5 @@
 # Raptorq-multicast
-// start ryu
+// start ryu \n
 ryu-manager --verbose --observe-links simple_switch_igmp_13.py ofctl_rest.py rest_topology.py gui_topology/gui_topology.py  
 or
 ryu-manager --verbose --observe-links simple_switch_igmp_13.py gui_topology/gui_topology.py
